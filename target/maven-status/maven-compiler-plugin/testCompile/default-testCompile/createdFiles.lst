@@ -1,0 +1,9 @@
+Tests\RateMovieTest.class
+Utils\ReadProperties.class
+Utils\GetSessionId.class
+Tests\ListTest.class
+Utils\GetRequestToken.class
+Tests\RateTvEpisodeTest.class
+Tests\PeopleTest.class
+Tests\Authentication.class
+Tests\RateTvShowTest.class
